@@ -23,6 +23,6 @@ function App() {
 }
 
 // Keeping the code alive
-
+// Maintaining the code
 
 export default App;
